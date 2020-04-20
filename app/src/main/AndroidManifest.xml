@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.abhishek.takemethere">
+    package="com.abhishek.avidprogrammers.takemethere">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-feature android:name="android.hardware.location.gps" />
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/logo"
@@ -10,16 +16,40 @@
         android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-4189677300594650~1909529921"/>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyD2qNmANgEq99Fdrrbpmf1E0OC2uVWCzHY" />
+
+        <activity android:name="com.abhishek.avidprogrammers.takemethere.SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.abhishek.avidprogrammers.takemethere.MainActivity" />
+        <activity android:name="com.abhishek.avidprogrammers.takemethere.SettingsActivity" />
+        <activity android:name="com.abhishek.avidprogrammers.takemethere.CuisinePreference" />
+        <activity android:name="com.abhishek.avidprogrammers.takemethere.DetailActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:parentActivityName="com.abhishek.avidprogrammers.takemethere.SplashActivity">
+        </activity>
+        <receiver android:name="com.abhishek.avidprogrammers.takemethere.Widget.FavoriteRestaurantsProvider">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
 
-        <activity android:name=".DashboardActivity"/>
-
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/favorite_restaurants_provider" />
+        </receiver>
+        <service android:name="com.abhishek.avidprogrammers.takemethere.Widget.FavoriteRestaurantsWidgetService" android:permission="android.permission.BIND_REMOTEVIEWS"/>
     </application>
 
 </manifest>
