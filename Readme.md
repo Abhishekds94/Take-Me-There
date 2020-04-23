@@ -44,9 +44,7 @@ You can build the app with Android Studio or with `./gradlew assembleDebug` comm
 
 ## Screenshots
 
-![Image 1](https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img1.jpg?sanitize=true&raw=true | width=48)
-
-<img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img1.jpg" width="48">
+<img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img1.jpg" width="160">
 
 
 ## App Working Video
