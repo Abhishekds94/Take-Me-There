@@ -1,4 +1,4 @@
-<p align="center>
+<p align="center">
 	<img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/app/src/main/res/drawable/logo_s.png" width="220">
 </p>
 # Take Me There!
