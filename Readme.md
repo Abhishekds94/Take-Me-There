@@ -44,22 +44,23 @@ You can build the app with Android Studio or with `./gradlew assembleDebug` comm
 
 ## Screenshots
 
-<p align="center">
-  <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img1.jpg" width="160">
+<div>
+  <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img1.jpg" width="180">
 
-  <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img2.jpg" width="160">
+  <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img2.jpg" width="180">
 
-  <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img3.jpg" width="160">
+  <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img3.jpg" width="180">
 
-  <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img4.jpg" width="160">
+  <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img4.jpg" width="180">
 
-  <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img5.jpg" width="160">
+  <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img5.jpg" width="180">
 
-  <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img6.jpg" width="160">
-</p>
+  <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img6.jpg" width="180">
+</div>
 
 ## App Working Video
 
+<img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/video.jpg" width="180">
 
 ## Future Scope
 Below are a few of the ideas that I could think of to enhance the application,
