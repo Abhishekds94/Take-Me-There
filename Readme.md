@@ -63,7 +63,7 @@ You can build the app with Android Studio or with `./gradlew assembleDebug` comm
 
 ## App Working Video
 
-<a href="https://youtu.be/wQ2zRsGT2UI" target="_blank"><img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/video.jpg" 
+<a href="https://youtu.be/wQ2zRsGT2UI?target=_blank" target="_blank"><img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/video.jpg" 
 alt="Video Working" width="220" /></a>
 
 ## Future Scope
