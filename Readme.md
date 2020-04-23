@@ -1,6 +1,7 @@
 <p align="center">
 	<img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/app/src/main/res/drawable/logo.png" width="220">
 </p>
+
 # Take Me There!
 
 Take Me There is an Android application that displays all the nearby restaurants using Zomato API from the User's current location.
