@@ -64,7 +64,7 @@ You can build the app with Android Studio or with `./gradlew assembleDebug` comm
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/video.jpg" 
-alt="Video Working" width="240" height="180" border="10" /></a>
+alt="Video Working" width="180" /></a>
 
 ## Future Scope
 Below are a few of the ideas that I could think of to enhance the application,
