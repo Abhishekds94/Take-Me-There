@@ -50,7 +50,9 @@ You can build the app with Android Studio or with `./gradlew assembleDebug` comm
   <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img2.jpg" width="180">
 
   <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img3.jpg" width="180">
+</div>
 
+<div>
   <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img4.jpg" width="180">
 
   <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img5.jpg" width="180">
@@ -60,7 +62,9 @@ You can build the app with Android Studio or with `./gradlew assembleDebug` comm
 
 ## App Working Video
 
-<img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/video.jpg" width="180">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/video.jpg" 
+alt="Video Working" width="240" height="180" border="10" /></a>
 
 ## Future Scope
 Below are a few of the ideas that I could think of to enhance the application,
