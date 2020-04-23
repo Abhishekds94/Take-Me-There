@@ -44,8 +44,19 @@ You can build the app with Android Studio or with `./gradlew assembleDebug` comm
 
 ## Screenshots
 
-<img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img1.jpg" width="160">
+<p align="center">
+  <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img1.jpg" width="160">
 
+  <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img2.jpg" width="160">
+
+  <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img3.jpg" width="160">
+
+  <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img4.jpg" width="160">
+
+  <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img5.jpg" width="160">
+
+  <img src="https://github.com/Abhishekds94/Take-Me-There/blob/master/Screenshots/img6.jpg" width="160">
+</p>
 
 ## App Working Video
 
