@@ -19,11 +19,11 @@
 
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-4189677300594650~1909529921"/>
+            android:value="ca-app-pub-<API_KEY_VALUE>"/>
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyD2qNmANgEq99Fdrrbpmf1E0OC2uVWCzHY" />
+            android:value="<API_KEY_VALUE>" />
 
         <activity android:name="com.abhishek.avidprogrammers.takemethere.SplashActivity">
             <intent-filter>
